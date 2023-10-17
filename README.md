@@ -1,6 +1,6 @@
 # OfficeHoursSimulator
 ### A C++ project that simulates students visiting a professor's office hours using file handling and multiple data structures
-##### Features:
+#### Features:
 - A priority queue of students based on question urgency
 -	A multimap to keep track of individual students and details of their visits
 -	File handling to write student data to a report text file
